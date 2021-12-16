@@ -1,5 +1,6 @@
 import UIKit
 
-var branchDevalop = "develop"
+var branchB = "featureB"
 
-var testDevelop = "test"
+var testFeatureB = "B"
+
