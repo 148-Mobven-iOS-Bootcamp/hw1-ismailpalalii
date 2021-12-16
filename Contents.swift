@@ -1,3 +1,3 @@
 import UIKit
 
-var branchDevalop = "develop"
+var branchA = "featureA"
